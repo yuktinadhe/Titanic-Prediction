@@ -78,7 +78,7 @@ Achieved **~90% accuracy** using **XGBoost**, which performed the best after fea
 
 ---
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 - Accuracy
 
 - Precision
@@ -93,7 +93,7 @@ Achieved **~90% accuracy** using **XGBoost**, which performed the best after fea
 
 ---
 
-Future Work
+## Future Work
 - ✅ Deploy as a web app using Streamlit or Flask
 
 - ✅ Use GridSearchCV for hyperparameter tuning
@@ -104,5 +104,5 @@ Future Work
 
 ---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 👩‍💻 Developed by Yukti Nadhe
